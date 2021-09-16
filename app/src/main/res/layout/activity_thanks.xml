@@ -18,7 +18,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="114dp"
-        android:textSize="28dp"
+        android:textSize="28sp"
 
         android:textColor="@color/bg_register"/>
 
@@ -30,8 +30,7 @@
         android:textColor="@color/bg_register"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-
-        android:textSize="28dp"/>
+        android:textSize="28sp"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -42,6 +41,6 @@
         android:layout_below="@+id/textView42"
         android:layout_centerHorizontal="true"
         android:textColor="@color/bg_register"
-        android:textSize="28dp"/>
+        android:textSize="28sp"/>
 
 </RelativeLayout>
