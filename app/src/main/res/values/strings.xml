@@ -48,5 +48,13 @@
     <string name="enter_email">Enter Email</string>
     <string name="enter_password">Enter Password</string>
     <string name="login">LOGIN</string>
+    <string name="welcome">Welcome</string>
+    <string name="next">Next</string>
+    <string name="nearby_police_stations">Nearby Police Stations</string>
+    <string name="choose_category_of_complaint">Choose category of complaint:</string>
+    <string name="private_e">Private</string>
+    <string name="social">Social</string>
+    <string name="national">National</string>
+    <string name="international">International</string>
 
 </resources>
